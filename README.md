@@ -57,7 +57,7 @@
   
   <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 40px; width: 250px; text-align: center; border: 1px solid #FFD70033;">
     <div style="font-size: 56px;">📁</div>
-    <div style="font-size: 48px; font-weight: bold; color: #FFD700; margin: 15px 0;">8</div>
+    <div style="font-size: 48px; font-weight: bold; color: #FFD700; margin: 15px 0;">7</div>
     <div style="color: #888; font-size: 18px;">Репозиториев</div>
   </div>
   
