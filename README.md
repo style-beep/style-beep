@@ -10,17 +10,28 @@
 
 </div>
 
----
-
 ## 🧑‍💻 Обо мне
 
+<div align="center">
+  
 ```python
 class Developer:
     def __init__(self):
         self.name = "Donskoyyy"
-        self.role = "stydent"
+        self.role = "Student 👨‍🎓"
         self.location = "Россия 🇷🇺"
-        self.interests = ["Web Development", "Open Source"]
+        self.interests = ["Web Development 🌐", "Open Source 🚀"]
+        self.current_learning = "React + TypeScript ⚡"
     
     def say_hello(self):
-        print("Открыт к сотрудничеству и новым проектам!")
+        return "🤝 Открыт к сотрудничеству и новым проектам!"
+    
+    def get_status(self):
+        return f"✨ {self.name} — {self.role} из {self.location}"
+
+
+me = Developer()
+
+
+print(me.get_status())
+print(me.say_hello())
