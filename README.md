@@ -45,7 +45,51 @@
 
 ### 📊 Статистика
 
-<img src="https://github-readme-stats.vercel.app/api?username=style-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&hide=prs,issues&show=reviews,discussions_started&card_width=200" width="100%" />
+<div align="center">
+  
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Моя+статистика+GitHub;Активно+развиваюсь;Каждый+день+немного+лучше" alt="Typing SVG" />
+
+<br/><br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=style-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&hide=prs,issues,contribs&show=reviews,discussions_started" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=style-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px; margin-top: 20px;">
+  
+  <div align="center">
+    
+    | 🚀 Показатель | 📊 Значение |
+    |:-------------|------------:|
+    | 🔥 **Всего коммитов** | `1,234` |
+    | 📁 **Репозиториев** | `8` |
+    
+  </div>
+  
+</div>
+
+<br/>
+
+### 📊 Активность
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=style-beep&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" width="100%" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=60&section=footer" width="100%" />
+
+</div>
 
 </td>
 </tr>
