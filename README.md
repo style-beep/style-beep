@@ -23,9 +23,6 @@ class Developer:
         self.interests = ["Web Development 🌐", "Open Source 🚀"]
         self.current_learning = "React + TypeScript ⚡"
     
-    def say_hello(self):
-        return "🤝 Открыт к сотрудничеству и новым проектам!"
-    
     def get_status(self):
         return f"✨ {self.name} — {self.role} из {self.location}"
 
