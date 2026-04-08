@@ -73,12 +73,28 @@
 
 ### 📈 Мой стек технологий
 
+## 🛠️ Мой стек технологий
+
 <div align="center">
-Навык	Уровень
-JavaScript	<img src="https://progress-bar.dev/60/" width="250"/>
-HTML/CSS	<img src="https://progress-bar.dev/65/" width="250"/>
-Git	<img src="https://progress-bar.dev/50/" width="250"/>
-Node.js	<img src="https://progress-bar.dev/40/" width="250"/>
+  
+### ⚡ Основные технологии
+
+<br/>
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> |
+| **JavaScript** | **HTML5** | **CSS3** |
+| ▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░ 60% | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░ 70% | ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░ 65% |
+
+<br/>
+
+| | |
+|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> |
+| **Git** | **Node.js** |
+| ▰▰▰▰▰▰▰▰▰▰▰▰▰░░░░░░░ 50% | ▰▰▰▰▰▰▰▰▰▰░░░░░░░░░░ 40% |
+
 </div>
 ---
 
