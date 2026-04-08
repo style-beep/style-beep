@@ -74,13 +74,12 @@
 ### 📈 Мой стек технологий
 
 <div align="center">
-🟨 JavaScript	████████████████░░░░ 60%
-🟧 HTML5	███████████████████░ 70%
-🟦 CSS3	█████████████████░░░ 65%
-🟩 Git	█████████████░░░░░░░ 50%
-🟪 Node.js (изучаю)	██████████░░░░░░░░░░ 40%
+Навык	Уровень
+JavaScript	<img src="https://progress-bar.dev/60/" width="250"/>
+HTML/CSS	<img src="https://progress-bar.dev/65/" width="250"/>
+Git	<img src="https://progress-bar.dev/50/" width="250"/>
+Node.js	<img src="https://progress-bar.dev/40/" width="250"/>
 </div>
-
 ---
 
 ### 🤝 Связаться со мной
