@@ -74,57 +74,85 @@
 ### 📈 Мой стек технологий
 
 <div align="center">
-  
+
 <br/>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=js" width="48" />
+      <br/>
+      <b>JavaScript</b>
+    </td>
+    <td width="300">
+      <div style="background: #2d2d3d; border-radius: 10px;">
+        <div style="background: linear-gradient(90deg, #f7df1e, #f0db4f); width: 60%; border-radius: 10px; padding: 6px; text-align: right; padding-right: 10px; color: #000; font-weight: bold;">
+          60%
+        </div>
+      </div>
+    </td>
+  </tr>
   
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; padding: 20px; width: 140px; text-align: center; border: 1px solid #f7df1e33;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="margin-bottom: 10px;"/>
-    <h3 style="color: #f7df1e; margin: 10px 0;">JS</h3>
-    <div style="background: #0f0f1a; border-radius: 20px; padding: 4px;">
-      <div style="background: #f7df1e; width: 60%; border-radius: 20px; padding: 4px;"></div>
-    </div>
-    <span style="color: #888;">60%</span>
-  </div>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="48" />
+      <br/>
+      <b>HTML5</b>
+    </td>
+    <td width="300">
+      <div style="background: #2d2d3d; border-radius: 10px;">
+        <div style="background: linear-gradient(90deg, #e44d26, #f16529); width: 70%; border-radius: 10px; padding: 6px; text-align: right; padding-right: 10px; color: #fff; font-weight: bold;">
+          70%
+        </div>
+      </div>
+    </td>
+  </tr>
   
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; padding: 20px; width: 140px; text-align: center; border: 1px solid #e44d2633;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="margin-bottom: 10px;"/>
-    <h3 style="color: #e44d26; margin: 10px 0;">HTML5</h3>
-    <div style="background: #0f0f1a; border-radius: 20px; padding: 4px;">
-      <div style="background: #e44d26; width: 70%; border-radius: 20px; padding: 4px;"></div>
-    </div>
-    <span style="color: #888;">70%</span>
-  </div>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="48" />
+      <br/>
+      <b>CSS3</b>
+    </td>
+    <td width="300">
+      <div style="background: #2d2d3d; border-radius: 10px;">
+        <div style="background: linear-gradient(90deg, #264de4, #2965f1); width: 65%; border-radius: 10px; padding: 6px; text-align: right; padding-right: 10px; color: #fff; font-weight: bold;">
+          65%
+        </div>
+      </div>
+    </td>
+  </tr>
   
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; padding: 20px; width: 140px; text-align: center; border: 1px solid #264de433;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="margin-bottom: 10px;"/>
-    <h3 style="color: #264de4; margin: 10px 0;">CSS3</h3>
-    <div style="background: #0f0f1a; border-radius: 20px; padding: 4px;">
-      <div style="background: #264de4; width: 65%; border-radius: 20px; padding: 4px;"></div>
-    </div>
-    <span style="color: #888;">65%</span>
-  </div>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=git" width="48" />
+      <br/>
+      <b>Git</b>
+    </td>
+    <td width="300">
+      <div style="background: #2d2d3d; border-radius: 10px;">
+        <div style="background: linear-gradient(90deg, #f05033, #de4c36); width: 50%; border-radius: 10px; padding: 6px; text-align: right; padding-right: 10px; color: #fff; font-weight: bold;">
+          50%
+        </div>
+      </div>
+    </td>
+  </tr>
   
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; padding: 20px; width: 140px; text-align: center; border: 1px solid #f0503333;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" style="margin-bottom: 10px;"/>
-    <h3 style="color: #f05033; margin: 10px 0;">Git</h3>
-    <div style="background: #0f0f1a; border-radius: 20px; padding: 4px;">
-      <div style="background: #f05033; width: 50%; border-radius: 20px; padding: 4px;"></div>
-    </div>
-    <span style="color: #888;">50%</span>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 16px; padding: 20px; width: 140px; text-align: center; border: 1px solid #68a06333;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" style="margin-bottom: 10px;"/>
-    <h3 style="color: #68a063; margin: 10px 0;">Node.js</h3>
-    <div style="background: #0f0f1a; border-radius: 20px; padding: 4px;">
-      <div style="background: #68a063; width: 40%; border-radius: 20px; padding: 4px;"></div>
-    </div>
-    <span style="color: #888;">40%</span>
-  </div>
-  
-</div>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" />
+      <br/>
+      <b>Node.js</b>
+    </td>
+    <td width="300">
+      <div style="background: #2d2d3d; border-radius: 10px;">
+        <div style="background: linear-gradient(90deg, #68a063, #8bc34a); width: 40%; border-radius: 10px; padding: 6px; text-align: right; padding-right: 10px; color: #fff; font-weight: bold;">
+          40%
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 ---
