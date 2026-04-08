@@ -32,3 +32,12 @@ me = Developer()
 
 print(me.get_status())
 print(me.say_hello())
+
+📋 Кратко обо мне
+Характеристика	Значение
+👤 Имя	Donskoyyy
+🎓 Статус	Студент
+🌍 Локация	Россия 🇷🇺
+💡 Интересы	Web-разработка, Open Source
+🎯 Цель	Стать Fullstack разработчиком
+📚 Изучаю	CSS, Html, Node.js
