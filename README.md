@@ -40,7 +40,7 @@
 ### 📊 Статистика
 
 📁 **Репозиториев**<br/>
-<span style="font-size: 48px; font-weight: bold; color: #FFD700;">7</span>
+<span style="font-size: 48px; font-weight: bold; color: #FFD700;">8</span>
 
 <br/><br/>
 
