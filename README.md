@@ -48,7 +48,6 @@
   
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Моя+статистика+GitHub;Активно+развиваюсь;" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -66,7 +65,6 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=style-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" width="60%" />
 
 </div>
 
