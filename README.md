@@ -14,7 +14,6 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Donskoyyy;Студент+из+России+🇷🇺;Web-разработчик;Open+Source+энтузиаст" alt="Typing SVG" />
 
 </div>
 
