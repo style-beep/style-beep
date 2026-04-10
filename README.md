@@ -34,7 +34,7 @@
 | 🌟 **Интересы** | Open Source, WEB технологии |
 | 🎯 **Цель** | Стать Fullstack разработчиком |
 
-    </td>
+  </td>
     <td width="40%" align="center" style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px;">
       
 ### 📊 Статистика
@@ -47,7 +47,7 @@
 👥 **Активность**<br/>
 <img src="https://komarev.com/ghpvc/?username=Donskoyyy&color=FFD700&style=flat-square" />
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -55,7 +55,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Donskoyyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=style-beep&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" width="100%" />
 
 </div>
 
