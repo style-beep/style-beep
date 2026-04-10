@@ -14,21 +14,16 @@
 
 <div align="center">
   
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=Привет!+Меня+зовут+Donskoyyy;Я+Web-разработчик;Open+Source+энтузиаст;Студент+из+России+🇷🇺" alt="Typing SVG" />
 
 </div>
 
----
-
-<div align="center">
-  
-### 👋 Привет! Меня зовут **Donskoyyy**
-
-</div>
+<br/>
 
 <table align="center">
-<tr>
-<td width="60%">
-
+  <tr>
+    <td width="60%" style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px;">
+      
 ### 📌 Основная информация
 
 | | |
@@ -36,62 +31,33 @@
 | 🎓 **Роль** | Студент |
 | 🌍 **Локация** | Россия 🇷🇺 |
 | 💻 **Направление** | Web-разработка |
-| 🌟 **Интересы** | Open Source, WEB technologies|
+| 🌟 **Интересы** | Open Source, WEB технологии |
 | 🎯 **Цель** | Стать Fullstack разработчиком |
 
-</td>
-<td width="40%" align="center">
-
+    </td>
+    <td width="40%" align="center" style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 20px;">
+      
 ### 📊 Статистика
 
-<div align="center">
-  
-<br/>
-
+📁 **Репозиториев**<br/>
+<span style="font-size: 48px; font-weight: bold; color: #FFD700;">7</span>
 
 <br/><br/>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-  
-  <div style="background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 20px; padding: 40px; width: 250px; text-align: center; border: 1px solid #FFD70033;">
-    <div style="font-size: 56px;">📁</div>
-    <div style="font-size: 48px; font-weight: bold; color: #FFD700; margin: 15px 0;">7</div>
-    <div style="color: #888; font-size: 18px;">Репозиториев</div>
-  </div>
-  
-</div>
+👥 **Активность**<br/>
+<img src="https://komarev.com/ghpvc/?username=Donskoyyy&color=FFD700&style=flat-square" />
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
   
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Donskoyyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" width="100%" />
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=60&section=footer" width="100%" />
-
-</div>
-### 📊 Активность
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=style-beep&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" width="100%" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=60&section=footer" width="100%" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-</div>
-
----
 
 ### 💼 Чем я занимаюсь сейчас
 
