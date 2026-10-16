@@ -1,44 +1,30 @@
 <p align="center">
-  <img src="assets/voidline-header-v2.png" width="100%" alt="VOIDLINE — Independent Game Developer. Godot, narrative systems and atmosphere." />
+  <img src="assets/voidline-header-v2.png" width="100%" alt="VOIDLINE — independent game developer" />
 </p>
 
 <p align="center">
-  <a href="#current-project">CURRENT PROJECT</a> · <a href="#development-focus">DEVELOPMENT FOCUS</a> · <a href="#toolkit">TOOLKIT</a> · <a href="https://t.me/Donskoyyy">TELEGRAM</a>
+  <a href="https://t.me/Donskoyyy"><b>TELEGRAM ↗</b></a>&nbsp;&nbsp; / &nbsp;&nbsp;<a href="mailto:st3614580@gmail.com"><b>EMAIL ↗</b></a>
 </p>
 
-### Александр / style-beep
+<img src="assets/intro.svg" width="100%" alt="Александр / style-beep. Создаю игры под именем VOIDLINE. Пишу код, собираю сцены, работаю с ритмом, звуком и тревогой." />
 
-Разрабатываю игры под именем **VOIDLINE**. Работаю с Godot, игровыми интерфейсами и сюжетными системами. Мне интересны психологический хоррор, выразительный звук и детали, которые постепенно меняют восприятие знакомого пространства.
+<img src="assets/dont-answer-v2.png" width="100%" alt="DONT ANSWER — авторский промо-арт психологического хоррора в разработке." />
 
-<a id="current-project"></a>
-## Current project
+<img src="assets/project-note.svg" width="100%" alt="Телефон звонит. Память подводит. DONT ANSWER — психологический хоррор о том, чему можно верить, когда собственные воспоминания перестают быть опорой. Визуальная новелла, исследование пространства и телефонные взаимодействия. Godot 4 / GDScript." />
 
-<img src="assets/dont-answer-v2.png" width="100%" alt="DONT ANSWER — психологический хоррор в разработке. Авторская графическая обложка, не скриншот игры." />
+<img src="assets/practice.svg" width="100%" alt="От механики до ощущения. Игровые системы: диалоги, события, триггеры. Интерфейс: внутриигровой телефон, анимации и переходы. Атмосфера: свет, окружение и звук. Основной стек: Godot / GDScript, Blender, Python. Также HTML / CSS / JavaScript." />
 
-**DONT ANSWER** — психологический хоррор с элементами визуальной новеллы и свободного перемещения. Телефон становится частью повествования: звонки, сообщения и знакомые голоса заставляют сомневаться в происходящем.
+<details>
+<summary>Текстовая версия / About</summary>
 
-Герой не может полностью доверять своей памяти. Игроку предстоит искать смысл в деталях и решать, на что отвечать.
+**Александр / style-beep** — разрабатываю игры под именем VOIDLINE.
 
-**Статус:** в разработке · **Движок:** Godot 4 · **Направление:** psychological horror / narrative
+**DONT ANSWER** — психологический хоррор с элементами визуальной новеллы, исследованием пространства и телефонными взаимодействиями. Игра в разработке на Godot 4 / GDScript.
 
-<a id="development-focus"></a>
-## Development focus
+Работаю с сюжетными событиями, интерфейсами и атмосферой. Использую Godot, GDScript, Blender и Python; также занимаюсь веб-проектами на HTML, CSS и JavaScript.
 
-| Область | Над чем работаю |
-| :--- | :--- |
-| Gameplay & narrative | Сюжетные события, триггеры, диалоги и взаимодействия |
-| Interface & motion | Внутриигровой телефон, интерфейсы, переходы и анимации |
-| Atmosphere | Свет, окружение, визуальные аномалии и звуковые события |
-| Supporting tools | Python-инструменты и веб-проекты |
+[Telegram](https://t.me/Donskoyyy) · [Email](mailto:st3614580@gmail.com)
 
-<a id="toolkit"></a>
-## Toolkit
+</details>
 
-**Godot 4 / GDScript** — игра и сюжетные системы  
-**Blender** — работа с 3D-окружением  
-**Python** — инструменты и автоматизация  
-**HTML / CSS / JavaScript** — веб-проекты
-
----
-
-<p align="center"><b>Let the silence tell the story.</b><br/><sub>VOIDLINE DEVELOPMENT · <a href="https://t.me/Donskoyyy">Telegram</a> · <a href="mailto:st3614580@gmail.com">Email</a></sub></p>
+<p align="center"><sub>VOIDLINE DEVELOPMENT · GAMES / CODE / ATMOSPHERE</sub></p>
