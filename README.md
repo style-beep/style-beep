@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/Donskoyyy"><img src="assets/contact-telegram.svg" width="46%" alt="Telegram — написать сообщение" /></a>
+  <a href="https://t.me/Donskooyyy"><img src="assets/contact-telegram.svg" width="46%" alt="Telegram — написать сообщение" /></a>
   &nbsp;
   <a href="mailto:st3614580@gmail.com"><img src="assets/contact-email.svg" width="46%" alt="Email — связаться по почте" /></a>
 </p>
